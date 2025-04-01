@@ -1,7 +1,7 @@
 # actividad1
 <!-- ## Autor
-- Nombre: Luisa Fernanda Robles Bailón  
-- Email: a23311051uthermosillo.edu.mx
+- Nombre: erubiel esteban valenzuela rendon
+- Email: a22311084uthermosillo.edu.mx
 - GitHub: [@juanperez](https://github.com/juanperez) -->
 
 
